@@ -1,0 +1,10 @@
+.item-details-md {
+  display: flex;
+  justify-content: space-between;
+}
+.true-btn {
+  color: #2563eb;
+}
+.false-btn {
+  color: #64748b;
+}

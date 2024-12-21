@@ -1,0 +1,38 @@
+.login-bg {
+  padding: 20px;
+  color: #475569;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+.login-dark-bg {
+  background-color: #0f0f0f;
+  padding: 20px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+.dark-form {
+  background-color: #1e293b;
+}
+.form {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+input {
+  padding: 5px;
+  margin-bottom: 10px;
+}
+.logo {
+  height: 40px;
+}
+.form-container {
+  width: 500px;
+  align-self: center;
+  justify-self: center;
+}
+.red{
+  color:#ff0b37;
+}

@@ -1,0 +1,14 @@
+.thumbnail-img {
+  height: 250px;
+  background-size: cover;
+  margin-right: 20px;
+}
+.trending-video-con {
+  margin: 10px;
+}
+.failure {
+  height: 300px;
+}
+.right-space{
+  margin-right:40px;
+}
